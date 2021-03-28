@@ -1,0 +1,37 @@
+OPERADORES
+
+Ejercicio 2. Escribir un script que nos muestre por pantalla todos los numeros pares del 1 al 120
+
+Ejercicio 3. Escribir un programa que muestre los cuadrados de los primeros 60 numeros naturales
+
+Ejercicio 4. Pedir 2 numeros al usuario y hacer todas las operaciones basicas de una calculadora y mostrarlo por pantalla
+
+Ejercicio 5. Hacer un programa que muestre todos los numeros entre 2 numeros que diga el usuario
+
+Ejercicio 6. Mostrar todas las tablas de multiplicar del 1 al 10, mostrando el titulo de la tabla y luego la multiplicacion del 1 al 10
+
+Ejercicio 7. Hacer un programa que muestre todos los numeros impares entre 2 numeros que decida el usuario
+
+Ejercicio 8. ¿Cuanto es el X por ciento de X numero?
+
+Ejercicio 9. Hacer un programa que pida numeros al usuario indefinidamente hasta introducir el numero 111
+
+Ejercicio 10. El programa tiene que pedir la nota de 15 alumnos y sacar por pantalla cuantos han aprobado y cuantos han suspendido
+
+
+
+
+LISTAS
+
+Ejercicio 1.1 Hacer un programa que tenga una lista de 8 numeros enteros y haga lo siguiente:
+-Recorrer la lista y mostrarla
+-Hacer funcion que recorra listas de numeros y devuelva string
+-Ordenarla y mostrarla
+-Mostrar su longitud
+-Buscar algun elemento (que el usuario pida por teclado)
+
+Ejercicio 2. Escribir un programa que añada valores a una lista mientras que su longitud sea menor a 120 y luego mostrar la lista. Prus:Usar while y for
+
+Ejercicio 3. Programa que compruebe si una variable esta vacia y si esta vacia, rellenarla con texto en minusculas y mostrarlo en mayusculas
+
+Ejercicio 4. Crear un script que tenga 4 variables, una lista, un string, un entero y un booleano y que imprima un mensaje segun el tipo de dato de cada variable  

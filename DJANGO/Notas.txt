@@ -1,0 +1,4 @@
+Para iniciar el servidor de python:
+
+1. Nos ubicamos en la carpeta de nuestro proyecto
+2. python manage.py runserver
